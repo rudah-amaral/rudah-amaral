@@ -1,15 +1,14 @@
 # Hey there!
 
-I'm a materials and metallurgy engineering undergraduate student and I'm
-currently studying front-end technologies. Kinda weird right? 😅
+I'm a front-end web developer and I'm always on the lookout to learn something new!
 
-I'm passionate in learning dev stuff, tho JS can be weird sometimes and CSS
-makes me want to pull my hair out!
+I feel like I've finally tamed modern JavaScript, and nowadays I feel much more confortable with CSS although it still finds ways to bewilder me. 😅
 
-At the moment I'm building a solid foundation in ES6+ so I can benefit the most
-from a framework.
+For the moment I'm coding ✨ Cool Stuff™ ✨ with the power of React, TypeScript and SASS.
 
-Everyday is a good day to boost my neovim setup.
+Every now and then I boost my dotfiles in order to make my machine and my demands fit together like perfectly cut puzzle pieces ⚡⚡
+
+As everything else, It's a work in progress.
 
 I hope we can get along! Let's build a better world for everyone! 💪
 
